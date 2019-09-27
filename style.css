@@ -1,0 +1,15 @@
+input {
+  width: 250px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #cbcbcb;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+  font-family: 'Courier New', Courier, monospace 
+}
+
+input:focus {
+  border: 3px solid #555;
+} 
