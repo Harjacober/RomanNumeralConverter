@@ -1,5 +1,5 @@
 # RomanNumeralConverter
-A simple web platforms that helps with the conversion of valid Roman numeral to Arabic numeral and vice versa.
+A simple web platform that helps with the conversion of valid Roman numeral to Arabic numeral and vice versa.
 
 # Features
 >- Coverts Arabic numeral up to 3999 to corresponding Roman Numeral.
